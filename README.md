@@ -7,7 +7,7 @@
 * **Materia:** Estructuras de Datos I
 * **Código:** INF-220
 * **Lenguaje:** Python
-* **Semestre:** Tercer semestre
+* **Semestre:** cuarto semestre
 * **Tipo de repositorio:** Académico / Estudiante
 
 ---
@@ -43,12 +43,10 @@ INF220-EstructurasDatos1-Estudiante/
 │
 ├── unidad0/
 │   ├── README.md
-│   ├── ejemplos/
 │   └── ejercicios/
 │
 └── unidad1/
     ├── README.md
-    ├── ejemplos/
     └── ejercicios/
 ```
 
