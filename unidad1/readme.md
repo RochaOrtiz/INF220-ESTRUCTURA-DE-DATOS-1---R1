@@ -12,6 +12,7 @@ También comprendí que no existe una única forma de almacenar los datos, sino 
 
 ### 1. ¿Qué es un dato?
 
+---
 Aprendí que un dato es un valor que puede ser almacenado y procesado por un programa.
 Estos valores representan información diferente, pero todos pueden ser almacenados y utilizados por un programa.
 Lo importante que comprendí es que la forma en la que organizamos esos datos puede afectar el funcionamiento y la eficiencia del programa.
