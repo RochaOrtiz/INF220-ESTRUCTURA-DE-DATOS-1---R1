@@ -1,4 +1,5 @@
 #PRIMER CODIGO SIN PEP8
+#---------------------------------------------------------------------------------------------
 def calcularpromedio(lista):
     suma=0
     for i in lista:
@@ -13,8 +14,11 @@ print("Nombre:",nombre)
 print("Edad:",edAD)
 print("Promedio:",calcularpromedio(notas))
 
+#---------------------------------------------------------------------------------------------
+
 #CODIGO CORREGIDO USANDO LA PRACTICA DE PEP8
 
+#---------------------------------------------------------------------------------------------
 def calcular_promedio(notas):
     suma = 0
 
@@ -31,3 +35,6 @@ notas = [80, 90, 75, 85]
 print("Nombre:", nombre)
 print("Edad:", edad)
 print("Promedio:", calcular_promedio(notas))
+
+#-----------------------------------------------------------------------------------------------
+
